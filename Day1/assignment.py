@@ -1,6 +1,8 @@
 '''
 now i'll try to learn Assignment operation
 with python 
+
+18Jul 2021, I'll continue learning this today
 '''
 
 def assignmentTest(num1, num2):
