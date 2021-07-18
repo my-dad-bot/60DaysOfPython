@@ -1,1 +1,1 @@
-# 60DaysOfPython
+# 60 Days Of Python
